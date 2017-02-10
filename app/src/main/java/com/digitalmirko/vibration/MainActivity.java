@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn_short, btn_long;
 
     Vibrator vibrator;
-
+ 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
